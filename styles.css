@@ -1,0 +1,45 @@
+* {
+    background-color: lightblue;
+}
+body h1{
+    text-align: center;
+    color:blue
+}
+.consulta {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.consulta article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 400px;
+    gap: 20px;
+    padding: 10px;
+    border: #0000003b;
+}
+
+.consulta article h3 {
+    font-size: 25px;
+}
+
+.consulta article:hover {
+    box-shadow: 2px 0 4px hsla(0, 4%, 15%, 0.199);
+    transition: 0.3s;
+}
+
+.consulta article img {
+    width: 220px;
+    max-height: 220px;
+    aspect-ratio: 5/5;
+}
+
+.consulta article a {
+    font-size: 1rem;
+    color: black;
+}
