@@ -1,0 +1,13 @@
+Describe con tus propias palabras: 
+
+1.	¿Qué es una API?
+Es una conexión que hacemos hacia una base de datos de la cual extraemos información.
+
+2.	¿Qué es JSON?
+Es un tipo de archivo en el que guardamos y transmitimos información en aplicaciones web.
+
+3.	¿Cuál es la importancia de manejar posibles errores?
+Nos permite mejorar el funcionamiento de nuestras aplicaciones.
+
+4.	¿Cómo podría ser útil el consumo de una API en el desarrollo de aplicaciones?
+Permite la comunicación entre el Backend y FrontEnd, al igual que accedemos a recursos que ya existen sin necesidad de crearlos desde cero.
