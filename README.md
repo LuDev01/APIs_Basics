@@ -1,6 +1,6 @@
 # APIs_Basics
 
-En este repositorio se encuentran 3 archivos:
+En este repositorio se encuentran 4 archivos:
 
 * index.html: Archivo en el que se encuentra el cuerpo para ejecutar el archivo app.js, junto con styles.css (estilos).
 * app.js: Archivo en el que se encuentran los parámetros a consumir de la API.
